@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Wikipedia Selector",
+  "version": "1.0",
+  "description": "Select and fetch Wikipedia articles",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
