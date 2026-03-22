@@ -29,7 +29,8 @@ This project is a simple browser-based tool that detects and displays Wikipedia 
 - Chrome Extension version
 - Integration with MediaWiki API
 - Add UI enhancements
-
+- Clickable article titles that open directly on Wikipedia
+- - Integrated with MediaWiki API for real-time search
 👩‍💻 Author
 
 Poorvi Satish
